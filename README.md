@@ -59,7 +59,7 @@ This app uses [***MVVM (Model View View-Model)***](https://developer.android.com
 ```
 MIT License
 
-Copyright (c) 2020 Shashank Singhal
+Copyright (c) 2020 Puneeth kumar
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
